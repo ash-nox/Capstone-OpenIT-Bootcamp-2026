@@ -102,3 +102,8 @@ Runs on http://localhost:5000
    ```bash
    npm run dev
 Runs on http://localhost:5173
+
+## Imporvements
+1. Have a way for the user to add their recipe only to that one user and not everyone
+2. Add photos and a popup window to show the recipe and other stuff
+3. Improve the UI and backend for it to run more smoothly
